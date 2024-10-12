@@ -28,3 +28,25 @@
   align-items: center;
   
 }
+
+.product-tabs{
+
+  color: #2a2a2a;
+  display: flex;
+  
+
+}
+.active-tab{
+  color: rgba(0, 0, 0, 0.863);
+  border-bottom: 3px solid red;
+  font-weight: bold;
+}
+.tab{
+  padding: 10px;
+  border: 1px dotted blue;
+  margin: 10px;
+}
+.divider{
+  margin: 0;
+
+}
