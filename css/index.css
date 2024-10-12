@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+
+}
+
+.feauture-section__svg-container {
+  width: 70px;
+  height: 70px;
+  color: #2877b6;
+  background-color: #f2f2f2;
+  border-radius: 50%;
+  padding: 15px;
+
+}
+
+.feauture-section__text-container {
+  font-family: "PT Sans", sans-serif; 
+  font-style: normal;
+  padding: 7.5px;
+}
+.feauture-section__header{
+  font-weight: 700;
+  font-size: 22px;
+}
+.feauter-section__card{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+}
